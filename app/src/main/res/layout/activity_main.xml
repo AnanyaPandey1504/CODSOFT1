@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/ss9">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/quote_string1"
+        android:textAlignment="inherit"
+        android:textColor="@color/colorPrimary"
+        android:clickable="true"
+        android:textIsSelectable="true"
+        android:selectAllOnFocus="true"
+        android:focusable="true"
+        android:textSize="30sp"
+
+    />
+
+    <CheckBox
+        android:id="@+id/cbHeart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="247dp"
+        android:button="@drawable/selector_wishlist_item" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        app:rippleColor="#FF000000"
+        app:srcCompat="@drawable/baseline_refresh_24"
+        tools:ignore="ContentDescription" />
+
+
+
+
+</RelativeLayout>

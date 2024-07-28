@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+
+    <string name="quote_string1">"I have not failed.I have just found 10,000 ways that won't work"
+    <b>\n\n-Thomas Edison</b></string>
+
+    <string name="quote_string2">"However difficult life may seem,there is always something you can do and succeed at"
+    <b>\n\n-Stephen Hawking</b></string>
+
+    <string name="quote_string3">"Life is 10% what happens and 90% of how you react"
+    <b>\n\n-Charles Swindoll</b></string>
+
+    <string name="quote_string4">"Strive not to be a success,but rather to be of value"
+    <b>\n\n-Albert Einstein</b></string>
+
+    <string name="quote_string5">"No one can defeat a powerful mind"
+    <b>\n\n- Chanakya</b></string>
+
+    <string name="quote_string6">"Success is when your signature turns into autograph"
+    <b>\n\n-Dr.A.P.J Abdul Kalam</b></string>
+
+    <string name="quote_string7">"The path from dreams to success does exist.May you have the vision to find it,the courage to get onto it,and the perseverance to follow it"
+    <b>\n\n-Kalpana Chawla</b></string>
+
+    <string name="quote_string8">"There have been failures too.Failures teach you a lot...I  had a lot of questions on the way"
+    <b>\n\n-Sunita Williams</b></string>
+
+    <string name="quote_string9">"Take risks in life.If you win,you may lead.If you lose, you may guide"
+    <b>\n\n-Swami Vivekanand</b></string>
+
+    <string name="quote_string10">"Be so busy improving yourself that you have no time to criticize others"
+    <b>\n\n-Chetan Bhagat</b></string>
+</resources>
